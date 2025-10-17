@@ -23,6 +23,7 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8CBBF1?style=for-the-badge&logo=ejs&logoColor=black)
 
 ---
