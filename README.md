@@ -39,6 +39,8 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
