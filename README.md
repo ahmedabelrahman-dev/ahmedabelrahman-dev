@@ -4,7 +4,7 @@
 
 🎯 **Junior Full Stack Web Developer | React | Node.js | Express | PostgreSQL**
 
-I'm a motivated and detail-oriented full-stack developer passionate about building scalable, user-friendly web applications. I enjoy solving real-world problems, writing clean code, and learning new technologies every day.
+I'm a motivated and detail-oriented full-stack developer passionate about building scalable, user-friendly web applications. I enjoy solving real-world problems, writing clean code , and learning new technologies every day.
 
 ---
 
