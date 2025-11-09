@@ -73,4 +73,4 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ---
 
-> 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+> 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_ <
