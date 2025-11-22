@@ -44,17 +44,14 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ## 🌍 Featured Projects
 
-- 🎵 **[Music Playlist Web App](https://github.com/ahmedabelrahman-dev/music-playlist)**  
-  A browser-based playlist manager using localStorage (no backend).
+- 💬 **[chat-app](https://github.com/ahmedabelrahman-dev/chat-app)**  
+  JavaScript realtime chat interface with a responsive layout and dynamic messaging flows.
 
-- 📚 **[Book Tracker App](https://github.com/ahmedabelrahman-dev)**  
-  Full-stack CRUD app using React, Express, and PostgreSQL.
+- 💬 **[chat-app 2.0](https://github.com/ahmedabelrahman-dev/chat-app-2.0)**  
+  Second iteration of the chat experience with polished interaction patterns and enhanced feedback.
 
-- 🌍 **[Family Travel Tracker](https://github.com/ahmedabelrahman-dev)**  
-  Express + EJS app to track countries visited, with PostgreSQL.
-
-- 🔐 **[Authentication System](https://github.com/ahmedabelrahman-dev)**  
-  Node.js + Passport.js + PostgreSQL with Google OAuth login.
+- 🐦 **[Twitter-app](https://github.com/ahmedabelrahman-dev/Twitter-app)**  
+  Twitter-inspired single-page feed showcasing custom components, styling, and interactive elements.
 
 ---
 
