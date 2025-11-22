@@ -65,8 +65,7 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 ## 🤝 Connect With Me
 
 📫 **Email:** [ahmdabdalrmn06@gmail.com](mailto:ahmdabdalrmn06@gmail.com)  
-🌐 **GitHub:** [github.com/ahmedabelrahman-dev](https://github.com/ahmedabelrahman-dev)  
-🔗 **LinkedIn:** [linkedin.com/in/ahmedabelrahman-dev](https://linkedin.com/in/ahmedabelrahman-dev)
+🌐 **GitHub:** [github.com/ahmedabelrahman-dev](https://github.com/ahmedabelrahman-dev)
 
 ---
 
