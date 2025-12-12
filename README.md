@@ -64,17 +64,22 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ## 📊 GitHub Stats
 
-### 🔥 Contribution Streak
+<!-- ### 🔥 Contribution Streak
 
-![Contribution Streak](https://streak-stats.demolab.com/?user=ahmedabelrahman-dev&theme=react)
+![Contribution Streak](https://streak-stats.demolab.com/?user=ahmedabelrahman-dev&theme=react) -->
 
-### 📈 Overall Stats
+### 📈 Stats & Languages (Side by Side)
 
-![Basic Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedabelrahman-dev&theme=react)
+<div align="center">
 
-### 🧠 Languages
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedabelrahman-dev&theme=react" alt="Overall Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedabelrahman-dev&theme=react" alt="Languages" /></td>
+  </tr>
+</table>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedabelrahman-dev&theme=react)
+</div>
 
 ### 📌 Profile Summary
 
