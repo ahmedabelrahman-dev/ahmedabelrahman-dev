@@ -62,8 +62,8 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ## 📊 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabelrahman-dev&theme=react&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabelrahman-dev&layout=compact&theme=react&cache_seconds=1)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabelrahman-dev&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabelrahman-dev&layout=compact&theme=react)
 
 ---
 
