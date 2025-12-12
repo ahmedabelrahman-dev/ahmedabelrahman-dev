@@ -4,13 +4,15 @@
 
 🎯 **Full Stack Web Developer | React | Node.js | Express | PostgreSQL**
 
-I'm a motivated and detail-oriented full-stack developer passionate about building scalable, user-friendly web applications. I enjoy solving real-world problems, writing clean code , and learning new technologies every day.
+I'm a motivated and detail-oriented full-stack developer passionate about building scalable, user-friendly web applications. I enjoy solving real-world problems, writing clean code, and learning new technologies every day.
 
 ---
 
 ## 📈 GitHub Activity
 
-[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabelrahman-dev&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+> _(This section uses GitHub’s activity graph — optional if you want to replace it later.)_
+
+[![Ahmad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabelrahman-dev&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -50,25 +52,35 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 ## 🌍 Featured Projects
 
 - 💬 **[chat-app](https://github.com/ahmedabelrahman-dev/chat-app)**  
-  JavaScript realtime chat interface with a responsive layout and dynamic messaging flows.
+  Real-time chat app built with JavaScript featuring responsive UI and smooth message flow.
 
 - 💬 **[chat-app 2.0](https://github.com/ahmedabelrahman-dev/chat-app-2.0)**  
-  Second iteration of the chat experience with polished interaction patterns and enhanced feedback.
+  Second version upgraded with improved UX, animations, and refined interaction design.
 
 - 🐦 **[Twitter-app](https://github.com/ahmedabelrahman-dev/Twitter-app)**  
-  Twitter-inspired single-page feed showcasing custom components, styling, and interactive elements.
+  Twitter-style single-page feed showcasing custom UI components and interactive behavior.
 
 ---
 
 ## 📊 GitHub Stats
 
+### 🔥 Contribution Streak
+
 ![Contribution Streak](https://streak-stats.demolab.com/?user=ahmedabelrahman-dev&theme=react)
+
+### 📌 Profile Summary
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedabelrahman-dev&theme=react)
 
+### 📈 Overall Stats
+
 ![Basic Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedabelrahman-dev&theme=react)
 
+### 🧠 Languages
+
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedabelrahman-dev&theme=react)
+
+---
 
 ## 🤝 Connect With Me
 
@@ -77,4 +89,4 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ---
 
-> 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_ <
+> 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
