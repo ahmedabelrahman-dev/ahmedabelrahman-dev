@@ -80,10 +80,12 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 </table>
 
 </div>
-
+<div align="center">
 ### 📌 Profile Summary
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedabelrahman-dev&theme=react)
+
+</div>
 
 ---
 
