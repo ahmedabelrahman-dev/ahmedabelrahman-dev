@@ -51,14 +51,17 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ## 🌍 Featured Projects
 
-- 💬 **[chat-app](https://github.com/ahmedabelrahman-dev/chat-app)**  
-  Real-time chat app built with JavaScript featuring responsive UI and smooth message flow.
+- **[Netflix-clone](https://github.com/ahmedabelrahman-dev/Netflix-clone)**  
+  A full-stack Netflix-style streaming app built with React, Node.js, Express, and MongoDB featuring browsing, search, authentication, and trailers.
 
-- 💬 **[chat-app 2.0](https://github.com/ahmedabelrahman-dev/chat-app-2.0)**  
-  Second version upgraded with improved UX, animations, and refined interaction design.
+- **[E-Commerce-Store](https://github.com/ahmedabelrahman-dev/E-Commerce-Store)**  
+  A modern, full-stack e-commerce application built with React and Node.js, featuring user authentication, product management, shopping cart, payment processing, and an admin dashboard with analytics.
 
-- 🐦 **[Twitter-app](https://github.com/ahmedabelrahman-dev/Twitter-app)**  
+- **[Twitter-app](https://github.com/ahmedabelrahman-dev/Twitter-app)**  
   Twitter-style single-page feed showcasing custom UI components and interactive behavior.
+
+- **[Linkedin-clone](https://github.com/ahmedabelrahman-dev/Linkedin-clone)**
+  A full-stack LinkedIn clone built with React and Node.js, featuring user authentication, social networking, posts, connections, and notifications.
 
 ---
 
