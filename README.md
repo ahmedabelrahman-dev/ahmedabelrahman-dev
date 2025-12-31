@@ -10,7 +10,6 @@ I'm a motivated and detail-oriented full-stack developer passionate about buildi
 
 ## 📈 GitHub Activity
 
-> _(This section uses GitHub’s activity graph — optional if you want to replace it later.)_
 
 [![Ahmad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabelrahman-dev&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
